@@ -1,0 +1,13 @@
+https://github.com/pratiksha-sawant/Lending-Club-Loan-Data-Analysis.git
+https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics#types_of_loans
+https://www.liebertpub.com/doi/full/10.1089/big.2018.0092
+
+
+Project goal:
+Analyze the loan performance (status and returns) for investors?
+
+
+Predicitng the interest rates for borrowers?
+Attributes related with borrowers are FICO Score, employment status, annual income
+
+
