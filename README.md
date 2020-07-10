@@ -10,10 +10,10 @@
   <li> In addition,LendingClub categorizes its loans using a grading scheme (grades A, B, C, D, E, F, and G where grade A corresponds to the loans judged to be ‘safest’ by LendingClub). Of course, the safer the loan the lower the interest rate, and so investors have to balance risk and return when deciding which loans to invest in</li>
  <li> Different loan status:
    <ul>
-    <li>Current refers to a loan that is still being reimbured in timely manner </li>
-     <li>Late corresponds to a loan on which a payment is between 16 and 120 days overdue </li>
-     <li>If the payment is delayed by more than 121 days,the loan is considered to be in Default</li>
-     <li>If LendingClub has decided that the loan will not be paid off, then it is given the status of Charged-Off</li>
+     <li><i>Current</i> refers to a loan that is still being reimbured in timely manner </li>
+     <li><i>Late</i> corresponds to a loan on which a payment is between 16 and 120 days overdue </li>
+     <li>If the payment is delayed by more than 121 days,the loan is considered to be in <i>Default</i></li>
+     <li>If LendingClub has decided that the loan will not be paid off, then it is given the status of <i>Charged-Off</i></li>
    </ul>
  </li>
 </ul>
