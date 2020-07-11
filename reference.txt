@@ -16,3 +16,7 @@ Attributes related with borrowers are FICO Score, employment status, annual inco
 The relevant variables for calculating the return are the loan status,the total payment, the funded amount, the fees generated, and the loan duration.
 
 
+#creatring api with flask
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
+
+
