@@ -1,0 +1,54 @@
+https://github.com/pratiksha-sawant/Lending-Club-Loan-Data-Analysis.git
+https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics#types_of_loans
+https://www.liebertpub.com/doi/full/10.1089/big.2018.0092
+
+
+# Project goal
+---------------------------------------
+Analyze the loan performance (status and returns) for investors?
+
+
+Predicitng the interest rates for borrowers?
+Attributes related with borrowers are FICO Score, employment status, annual income
+ 
+# Machine Learning Models
+-----------------------------------------
+Regression
+****************
+Linear Regression
+Ridge Regression
+Lasso Regression
+
+Classification
+******************
+XGBoost
+SupportVector Machine
+
+
+# Return calculation
+-----------------------------
+The relevant variables for calculating the return are the loan status,the total payment, the funded amount, 
+the fees generated, and the loan duration.
+
+
+# Airflow
+------------------------------------------------
+https://www.astronomer.io/guides/airflow-wsl/
+https://www.youtube.com/watch?v=3K6VFPZP5UQ
+http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/
+https://airflow.apache.org/docs/stable/howto/operator/python.html
+https://marclamberti.com/blog/airflow-pythonoperator/
+https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55
+
+cat $AIRFLOW_HOME/airflow-webserver.pid | xargs kill -9
+airflow initdb
+airflow webserver 
+airflow list_dags
+
+# Flask API
+---------------------------------
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
+
+
+
+
