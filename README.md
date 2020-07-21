@@ -21,6 +21,12 @@
 ### Airflow
 Implemented the data cleaning process with airflow
 
+![](images/dags.png)
+
+
+![](images/graphview.png)
+
+
 Instructions to start airflow
 <ul>
   <li> airflow initdb </li>
@@ -31,7 +37,3 @@ Instructions to start airflow
   <li> click trigger dag, it will start the pipeline and store data on AWS-S3 </li>
  <ul>
 
-![](images/dags.png)
-
-
-![](images/graphview.png)
