@@ -373,5 +373,5 @@ faeture_eng = PythonOperator(task_id='faeture_eng', python_callable=featureEng,
 upload = PythonOperator(task_id='upload_to_S3', python_callable=uploadToS3,
                         op_kwargs={'loans': faeture_eng}, dag=dag)
 
-dummy_operator >> read_from_S3 >> replace_values >> handle_nulls >> faeture_eng >> upload
+dummy_operator >> read_from_S3 >> remove_outlier_operator >> replace_values >> handle_nulls >> faeture_eng >> upload
 
