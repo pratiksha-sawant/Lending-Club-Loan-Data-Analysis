@@ -19,5 +19,16 @@
 </ul>
 
 ### Airflow
+Implemented the data cleaning process with airflow
+
+Instructions to start airflow
+<ul>
+  <li> airflow initdb </li>
+  <li> airflow webserver </li>
+  <li> airflow scheduler </li>
+  <li> open the localhost page </li>
+  <li> start the dag </li>
+  <li> click trigger dag, it will start the pipeline and store data on AWS-S3 </li>
+ <ul>
 
 ### Dockerization
