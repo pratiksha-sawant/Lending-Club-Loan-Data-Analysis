@@ -21,7 +21,7 @@
 ### Airflow
 Implemented the data cleaning process with airflow
 
-![](images/dags.png)
+![](images/dags.PNG)
 ![](images/dags.png)
 
 
