@@ -22,10 +22,9 @@
 Implemented the data cleaning process with airflow
 
 ![](images/dags.PNG)
-![](images/dags.png)
 
 
-![](images/graphview.png)
+![](images/graphview.PNG)
 
 
 Instructions to start airflow
