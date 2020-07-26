@@ -50,6 +50,8 @@ airflow list_dags
 ---------------------------------
 https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
 
-
+# XGBoost
+-----------------------------------------------
+https://www.datacamp.com/community/tutorials/xgboost-in-python
 
 
