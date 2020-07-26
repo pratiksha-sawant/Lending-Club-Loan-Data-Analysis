@@ -19,7 +19,7 @@
 </ul>
 
 ### Airflow
-Implemented the data cleaning process with airflow
+Implemented the data cleaning process and feature engineering with airflow
 
 ![](images/dags.PNG)
 
